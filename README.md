@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/PROJECT-MYTOWNSECURITY-blue?style=for-the-badge) 
 # MYTOWNSECURITY
-![](https://ifh.cc/g/cbPIy5.png)
+![](https://ifh.cc/g/MTsKA5.png)
 
 우리 동네 안전 궁금해?
 응! 나 완전 안전 궁금해!
